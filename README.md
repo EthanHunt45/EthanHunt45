@@ -63,19 +63,46 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
 
 **🧠 AI & Data Science**
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br />
+
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+
+  <br />
+
+  <a href="https://www.hackerrank.com/erincminareci45">
+    <img height="160em" src="https://hackerrank-readme-stats.vercel.app/api?username=erincminareci45&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
 </div>
