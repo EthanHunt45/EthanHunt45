@@ -14,7 +14,7 @@
   <a href="mailto:erincminareci35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/erincminareci/](https://www.linkedin.com/in/erinc-minareci/)">
+  <a href="https://www.linkedin.com/in/erincminareci/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
