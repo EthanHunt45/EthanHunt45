@@ -80,25 +80,6 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-
-  <br />
-
-  <a href="https://www.hackerrank.com/erincminareci45">
-    <img height="160em" src="https://hackerrank-readme-stats.vercel.app/api?username=erincminareci45&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   
@@ -106,3 +87,13 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
 </div>
+
+<div align="center">
+  <a href="https://www.hackerrank.com/erincminareci45">
+    <img src="https://hackerrank-readme-stats.vercel.app/api?username=erincminareci45&theme=tokyonight&hide_border=true&bg_color=00000000" alt="HackerRank Stats" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/EthanHunt45/count.svg" alt="Ziyaretçi Sayısı" />
+</p>
