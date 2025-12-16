@@ -81,10 +81,12 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
   
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
 </div>
 
