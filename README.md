@@ -88,12 +88,6 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
 </div>
 
-<div align="center">
-  <a href="https://www.hackerrank.com/erincminareci45">
-    <img src="https://hackerrank-readme-stats.vercel.app/api?username=erincminareci45&theme=tokyonight&hide_border=true&bg_color=00000000" alt="HackerRank Stats" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/EthanHunt45/count.svg" alt="Ziyaretçi Sayısı" />
 </p>
