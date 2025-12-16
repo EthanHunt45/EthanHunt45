@@ -90,3 +90,7 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
+</div>
+
