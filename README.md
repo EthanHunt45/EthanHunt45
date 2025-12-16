@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/EthanHunt45/count.svg" alt="Ziyaretçi Sayısı" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
