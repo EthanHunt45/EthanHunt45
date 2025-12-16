@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/EthanHunt45/count.svg" alt="Ziyaretçi Sayısı" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -39,6 +43,7 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
@@ -80,13 +85,15 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+**📊 Productivity & Office Tools**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+</p>
+
 <div align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanHunt45&theme=tokyonight&bg_color=00000000" />
-</div>
-
