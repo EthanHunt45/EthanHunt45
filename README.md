@@ -73,18 +73,18 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErincMinareci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Erinc's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErincMinareci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Erinc's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErincMinareci&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanHunt45&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErincMinareci&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EthanHunt45&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
