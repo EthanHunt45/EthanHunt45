@@ -90,6 +90,6 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
 
 <div align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180em" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45)](https://github.com/anuraghazra/github-readme-stats) />
   </a>
 </div>
