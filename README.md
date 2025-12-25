@@ -87,8 +87,3 @@ I am **Erinc**, a Computer Engineer based in **Eskisehir, Turkiye**. With a stro
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanHunt45&show_icons=true&theme=dracula" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHunt45&layout=compact&theme=dracula" width="45%" />
-</p>
